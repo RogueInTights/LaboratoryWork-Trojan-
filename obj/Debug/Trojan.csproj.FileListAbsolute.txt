@@ -1,0 +1,7 @@
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\bin\Debug\Trojan.exe.config
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\bin\Debug\Trojan.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\bin\Debug\Trojan.pdb
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\obj\Debug\Trojan.Properties.Resources.resources
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\obj\Debug\Trojan.csproj.GenerateResource.Cache
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\obj\Debug\Trojan.exe
+D:\Учеба\Методы оценки и защиты информации\Лабораторная работа #4\Trojan\obj\Debug\Trojan.pdb
